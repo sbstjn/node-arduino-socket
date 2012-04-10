@@ -1,0 +1,13 @@
+{
+  "name": "arduino-websocket",
+  "description": "Pipe data from serial connection trough websockets to a browser",
+  "author": "Sebastian Müller <mail@semu.mp>",
+  "version": "0.1",
+  "dependencies": {
+    "requirejs": ">= 1.0.7",
+    "serialport": ">= 0.7.3",
+    "kickstart": ">= 0.0.5",
+    "socket.io": ">= 0.9.3"
+    },
+  "engine": "node >= 0.4.1"
+}
