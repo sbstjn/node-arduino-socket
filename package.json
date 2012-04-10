@@ -2,7 +2,7 @@
   "name": "arduino-websocket",
   "description": "Pipe data from serial connection trough websockets to a browser",
   "author": "Sebastian Müller <mail@semu.mp>",
-  "version": "0.1",
+  "version": "0.1.0",
   "dependencies": {
     "requirejs": ">= 1.0.7",
     "serialport": ">= 0.7.3",
