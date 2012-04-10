@@ -3,5 +3,5 @@ requirejs.config({nodeRequire: require});
 
 requirejs(['serial', 'web', 'socket'],function(serial, web, socket) {
   serial.connect(socket);
-  web.listen(8080);
+  web.listen(8099);
 });
